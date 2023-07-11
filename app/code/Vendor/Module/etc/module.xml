@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Vendor_Module
+ *
+ * @category Vendor
+ * @package  Vendor_Module
+ * @author   Wiktor Koscielny <wiktorkoscielny@gmail.com>
+ */
+-->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Vendor_Module" setup_version="1.0.0"></module>
+</config>
